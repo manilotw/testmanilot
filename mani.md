@@ -1,3 +1,6 @@
+number2
+print "12"
+=======
 number
 print "1"
 =======
@@ -35,3 +38,4 @@ main
  main
  main
 main
+ main
