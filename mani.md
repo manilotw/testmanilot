@@ -1,1 +1,1 @@
-print "Hello World1234567"
+print "1"
