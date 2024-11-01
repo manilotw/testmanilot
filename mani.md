@@ -1,3 +1,6 @@
+ number10
+print "12345678910"
+=======
 number9
 print "123456789"
 =======
@@ -15,4 +18,4 @@ print "12345"
 =======
 
  main
- main
+ main main
