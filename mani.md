@@ -1,3 +1,6 @@
+number111
+print "1234567891011121313павпвпв"
+=======
  number123
 print "1234567891011121313пав"
 =======
@@ -31,6 +34,7 @@ print "12345"
 
  main
  main main
+ main
  main
  main
  main
