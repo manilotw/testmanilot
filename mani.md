@@ -1,3 +1,6 @@
+ number6
+print "123456"
+=======
 number5
 print "12345"
 =======
@@ -47,6 +50,7 @@ main
  main
  main
 main
+ main
  main
  main
  main
