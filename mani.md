@@ -1,3 +1,6 @@
+ number4
+print "1234"
+=======
  number3
 print "123"
 =======
@@ -41,5 +44,6 @@ main
  main
  main
 main
+ main
  main
  main
